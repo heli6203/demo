@@ -1,0 +1,31 @@
+body{
+  background:white;
+}
+
+.c1 {
+  
+  text-align:center;
+  position:relative;
+  float:left;
+  padding: 10PX;
+  margin: 1%;
+}
+.p1{
+  color:green;
+}
+.p2{
+  font-size:25px;
+  font-weight:bold;
+  margin: 0;
+  display: inline; 
+}
+.p3{
+  font-size:15px;
+  margin: 0;
+  display: inline; 
+  color: grey;
+  padding: 5px;
+  text-decoration: line-through;
+}
+
+

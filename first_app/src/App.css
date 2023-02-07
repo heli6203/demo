@@ -1,0 +1,86 @@
+/* img{
+  height: 300px;
+  width: 350px;
+  padding: 8px;
+  display: grid;
+  float: left;
+  margin: 19px;
+  
+} */
+
+
+/* .my-style
+{
+background-color:blue;
+color: red;
+text-align:center;
+}; */
+
+/* .rest{
+
+  text-align: center;
+}
+
+.xy{
+  text-align: center;
+}
+.xy button{
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+  margin: 10px;
+}
+.xyz .ip{
+  float: left;
+  margin: 60px;
+  padding: 5px;
+}
+.men{
+  display: flex;
+  margin: 23px;
+  padding: 2px;
+}
+.xyz .ip .img img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.ip{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+.upd{
+  display: flex;
+  margin-left: 120px; 
+}
+.upd button{
+  margin: 20px;
+} */
+
+
+.Re1{
+ 
+  text-align: center;
+  margin-top: -500px;
+}
+ .Re1 p{
+  font-size: 30px;
+  font-weight: 100;
+  color:rgba(248, 248, 248, 0.578);
+  
+}
+.Re1 h1{
+  text-align: center;
+   font-size: 50px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+}
+.Re1 button{
+ 
+  background-color: rgb(155, 154, 154);
+  color: rgb(10, 10, 10);
+  font-size: 20px;
+  border: radius 10px;
+  border-color: rgb(155, 154, 154);
+} 
